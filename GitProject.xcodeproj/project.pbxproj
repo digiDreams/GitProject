@@ -11,6 +11,7 @@
 		5F685585285A01DA00DA04AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F685584285A01DA00DA04AF /* ContentView.swift */; };
 		5F685587285A020C00DA04AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F685586285A020C00DA04AF /* Assets.xcassets */; };
 		5F68558A285A020D00DA04AF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F685589285A020D00DA04AF /* Preview Assets.xcassets */; };
+		5F685591285A11AD00DA04AF /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F685590285A11AC00DA04AF /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5F685584285A01DA00DA04AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5F685586285A020C00DA04AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F685589285A020D00DA04AF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5F685590285A11AC00DA04AF /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5F685582285A01DA00DA04AF /* GitProjectApp.swift */,
 				5F685584285A01DA00DA04AF /* ContentView.swift */,
+				5F685590285A11AC00DA04AF /* TabBar.swift */,
 				5F685586285A020C00DA04AF /* Assets.xcassets */,
 				5F685588285A020D00DA04AF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F685591285A11AD00DA04AF /* TabBar.swift in Sources */,
 				5F685585285A01DA00DA04AF /* ContentView.swift in Sources */,
 				5F685583285A01DA00DA04AF /* GitProjectApp.swift in Sources */,
 			);
